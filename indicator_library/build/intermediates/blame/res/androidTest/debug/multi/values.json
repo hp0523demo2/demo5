@@ -1,0 +1,967 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 59,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 59,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 60,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 60,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 66,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 66,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 62,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 62,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 40,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 40,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 71,
+                    "endOffset": 670
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 71,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 675,
+                    "endColumn": 71,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 71,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 73,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 73,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 73,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 73,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 75,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 75,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 72,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 72,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 74,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 74,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 70,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 70,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 78,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 78,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 61,
+                    "endOffset": 1326
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 61,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1331,
+                    "endColumn": 62,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 62,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 77,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endColumn": 77,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 78,
+                    "endOffset": 1546
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 78,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1551,
+                    "endColumn": 92,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 92,
+                        "endOffset": 1639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 92,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1644,
+                        "endColumn": 92,
+                        "endOffset": 1732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endColumn": 107,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1737,
+                        "endColumn": 107,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 107,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 107,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4258,
+                    "endColumn": 61,
+                    "endOffset": 4315
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4258,
+                        "endColumn": 61,
+                        "endOffset": 4315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4320,
+                    "endColumn": 67,
+                    "endOffset": 4383
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4320,
+                        "endColumn": 67,
+                        "endOffset": 4383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4388,
+                    "endColumn": 62,
+                    "endOffset": 4446
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4388,
+                        "endColumn": 62,
+                        "endOffset": 4446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4451,
+                    "endColumn": 64,
+                    "endOffset": 4511
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4451,
+                        "endColumn": 64,
+                        "endOffset": 4511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4516,
+                    "endColumn": 65,
+                    "endOffset": 4577
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4516,
+                        "endColumn": 65,
+                        "endOffset": 4577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4582,
+                    "endColumn": 66,
+                    "endOffset": 4644
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4582,
+                        "endColumn": 66,
+                        "endOffset": 4644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4649,
+                    "endColumn": 77,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4649,
+                        "endColumn": 77,
+                        "endOffset": 4722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 89,
+                    "endOffset": 4812
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4727,
+                        "endColumn": 89,
+                        "endOffset": 4812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4817,
+                    "endColumn": 72,
+                    "endOffset": 4885
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4817,
+                        "endColumn": 72,
+                        "endOffset": 4885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4890,
+                    "endColumn": 68,
+                    "endOffset": 4954
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4890,
+                        "endColumn": 68,
+                        "endOffset": 4954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4959,
+                    "endColumn": 64,
+                    "endOffset": 5019
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4959,
+                        "endColumn": 64,
+                        "endOffset": 5019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5024,
+                    "endColumn": 67,
+                    "endOffset": 5087
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5024,
+                        "endColumn": 67,
+                        "endOffset": 5087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5092,
+                    "endColumn": 65,
+                    "endOffset": 5153
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5092,
+                        "endColumn": 65,
+                        "endOffset": 5153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5158,
+                    "endColumn": 68,
+                    "endOffset": 5222
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5158,
+                        "endColumn": 68,
+                        "endOffset": 5222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5227,
+                    "endColumn": 78,
+                    "endOffset": 5301
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5227,
+                        "endColumn": 78,
+                        "endOffset": 5301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5306,
+                    "endColumn": 69,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5306,
+                        "endColumn": 69,
+                        "endOffset": 5371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endColumn": 72,
+                    "endOffset": 5444
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5376,
+                        "endColumn": 72,
+                        "endOffset": 5444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5449,
+                    "endColumn": 73,
+                    "endOffset": 5518
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5449,
+                        "endColumn": 73,
+                        "endOffset": 5518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5523,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5718
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5523,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5723,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5980
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5723,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 5980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5985,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 6019
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5985,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 6019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6024,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 6209
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6024,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 6209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6214,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 6862
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\androidstudio\\ZhiBo\\indicator_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6214,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 6862
+                    }
+                }
+            }
+        ]
+    }
+]
